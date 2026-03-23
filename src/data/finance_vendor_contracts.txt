@@ -1,0 +1,5 @@
+Active Vendor Contracts and Service Agreements
+
+Our primary cloud provider agreement covers 500GB monthly storage, 10 Gbps bandwidth, with 99.99% SLA guarantee. Monthly cost is $25,000 with annual contract ending June 2025. Automatic renewal occurs unless 90-day notice is provided. Volume discounts available if usage exceeds 750GB monthly. Backup vendor Cloudinary is contracted for disaster recovery at $8,000 per month with 48-hour failover guarantee.
+
+Software licensing portfolio includes Microsoft Enterprise Agreement for 200 seats at $15 per month per seat. Adobe Creative Cloud licenses 50 designers at $85 per month each. Slack workspace accommodates 150 users at $12.50 monthly per user. All software licenses renew annually on January 1st. Payroll processing handled by ADP at $3,500 monthly flat fee plus $8 per employee per pay cycle. Current active employee count is 275. Backup payroll provider Guidepoint maintains contract at 15% premium for enhanced support capabilities.

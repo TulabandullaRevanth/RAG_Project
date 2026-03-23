@@ -1,0 +1,7 @@
+Regulatory Compliance Requirements and Current Status
+
+Our company is subject to GDPR compliance for all European customer data handling. We maintain Privacy Impact Assessment documentation and Data Processing Agreements with all subprocessors. Current compliance status is fully compliant as of last audit in Q2 2024. Next scheduled audit is Q2 2025.
+
+SOC 2 Type II certification was obtained in June 2023 covering security, availability, processing integrity, confidentiality, and privacy domains. The audit was conducted by a Big Four accounting firm. Certification remains valid for 12 months from issue date. Recertification audit is scheduled for Q2 2024. HIPAA compliance is required for healthcare client data handling. We maintain Business Associate Agreements with all clients processing health information. Current count of covered entities is 7 as of Q3 2024. Risk assessment was completed in Q3 2024 with zero critical findings.
+
+Data retention policy mandates customer operational data retained for 90 days post-contract termination. Financial records retained for 7 years per tax law requirements. Personnel records retained for 5 years following employee termination. All data is classified into categories: Public, Internal Use Only, Confidential, and Restricted. Incident response procedure requires security team response within 2 hours. Critical incidents must be escalated to CEO within 4 hours. Customer notification required within 72 hours for data breaches per GDPR requirements.

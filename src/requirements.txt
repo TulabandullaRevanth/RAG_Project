@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+streamlit
+faiss-cpu
+sentence-transformers
+numpy
+requests
+ollama
+python-multipart
+pydantic
